@@ -1,4 +1,4 @@
-SEL/* DataCamp Guided Project: User-centric KPI's
+/* DataCamp Guided Project: User-centric KPI's
 
 This SQL file will analyze user-centric KPI's for an orders dataset from a fictional food delivery app called "Delivr" */
 
